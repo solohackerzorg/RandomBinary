@@ -1,7 +1,10 @@
 * Developed by
 * SoloHackerzOrganization
 ```
-This Repo Contains the Rain of Falling ColourFul Binary Numbers. This Simple code is provided free by SoloHackerzOrganization and You can use it in your code as you want. but, please fork and follow us and give us credits.
+This Repo Contains the Rain of Falling ColourFul Binary Numbers.
+This Simple code is provided free by SoloHackerzOrganization and
+You can use it in your code as you want. but, 
+please fork and follow us and give us credits.
 May God Bless You All.
 ```
 # Installation
