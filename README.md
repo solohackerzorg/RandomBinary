@@ -14,4 +14,4 @@ python binary_numbers.py
 cd ~/RandomBinary
 python binary_numbers.py
 ```
-<a href="https://github.com/solohackerzorg"><img align="center" title="RandomBinary" alt="RandomBinary" width="160px" src="randomb.png" /></a>
+<a href="https://github.com/solohackerzorg"><img align="center" title="RandomBinary" alt="RandomBinary" width="1600px" src="randomb.png" /></a>
