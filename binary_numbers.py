@@ -32,13 +32,13 @@ def solo():
     if '' in ch:
         start_time = time.time()
         while time.time() - start_time < duration:
-            num_numbers = random.randint(1500, 4000)
+            num_numbers = random.randint(1500000,4000000)
             for i in range(num_numbers):
                 color = random.choice(colors);x_pos = random.randint(0, screen_width - 8)
                 y_pos = random.randint(0, screen_height - 1)
                 binary_num = str(random.randint(0, 1))
                 print('\033[{};{}H{}{}'.format(y_pos+1, x_pos+1, binary_num,color))
-            time.sleep(0.13)
+            time.sleep(0.30)
             for i in range(screen_height):
                 print('\033[{};1H{}'.format(i+1, ' '*screen_width), end='')
             print('\033[1;1H')
